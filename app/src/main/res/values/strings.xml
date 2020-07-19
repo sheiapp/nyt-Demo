@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">nyt Demo</string>
+    <string name="title">title</string>
+    <string name="author_name">author name</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="more_info"><u>more info >></u></string>
+    <string name="new_york_times">New York Times</string>
+    <string name="title_dummy">Dismemberment of Tech C.E.O. Fahim Saleh Looks Like ‘Professional Job</string>
+    <string name="abstract_dummy">Mr. Saleh, 33, was followed into his luxury Manhattan condo by a man dressed all in black, an official said.</string>
+    <string name="date_dummy">04-08-2020</string>
+    <string name="more">more</string>
+    <string name="search">search</string>
+</resources>

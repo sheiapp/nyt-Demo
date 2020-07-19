@@ -1,0 +1,222 @@
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html id="htmlId">
+<head>
+  <title>Coverage Report :: ModuleKt</title>
+  <style type="text/css">
+    @import "../../.css/coverage.css";
+  </style>
+</head>
+
+<body>
+<div class="header"></div>
+
+<div class="content">
+<div class="breadCrumbs">
+    [ <a href="../../index.html">all classes</a> ]
+    [ <a href="../index.html">com.demo.nytdemo.utils</a> ]
+</div>
+
+<h1>Coverage Summary for Class: ModuleKt (com.demo.nytdemo.utils)</h1>
+
+<table class="coverageStats">
+
+<tr>
+  <th class="name">Class</th>
+<th class="coverageStat 
+">
+  Method, %
+</th>
+<th class="coverageStat 
+">
+  Line, %
+</th>
+</tr>
+<tr>
+  <td class="name">ModuleKt</td>
+<td class="coverageStat">
+  <span class="percent">
+    100%
+  </span>
+  <span class="absValue">
+    (2/ 2)
+  </span>
+</td>
+<td class="coverageStat">
+  <span class="percent">
+    100%
+  </span>
+  <span class="absValue">
+    (2/ 2)
+  </span>
+</td>
+</tr>
+  <tr>
+    <td class="name">ModuleKt$apiService$1</td>
+<td class="coverageStat">
+  <span class="percent">
+    100%
+  </span>
+  <span class="absValue">
+    (1/ 1)
+  </span>
+</td>
+<td class="coverageStat">
+  <span class="percent">
+    100%
+  </span>
+  <span class="absValue">
+    (2/ 2)
+  </span>
+</td>
+  </tr>
+  <tr>
+    <td class="name">ModuleKt$apiService$1$1</td>
+<td class="coverageStat">
+  <span class="percent">
+    100%
+  </span>
+  <span class="absValue">
+    (1/ 1)
+  </span>
+</td>
+<td class="coverageStat">
+  <span class="percent">
+    100%
+  </span>
+  <span class="absValue">
+    (1/ 1)
+  </span>
+</td>
+  </tr>
+  <tr>
+    <td class="name">ModuleKt$injectionModule$1</td>
+<td class="coverageStat">
+  <span class="percent">
+    100%
+  </span>
+  <span class="absValue">
+    (1/ 1)
+  </span>
+</td>
+<td class="coverageStat">
+  <span class="percent">
+    100%
+  </span>
+  <span class="absValue">
+    (4/ 4)
+  </span>
+</td>
+  </tr>
+  <tr>
+    <td class="name">ModuleKt$injectionModule$1$1</td>
+<td class="coverageStat">
+  <span class="percent">
+    100%
+  </span>
+  <span class="absValue">
+    (1/ 1)
+  </span>
+</td>
+<td class="coverageStat">
+  <span class="percent">
+    100%
+  </span>
+  <span class="absValue">
+    (1/ 1)
+  </span>
+</td>
+  </tr>
+  <tr>
+    <td class="name">ModuleKt$injectionModule$1$2</td>
+<td class="coverageStat">
+  <span class="percent">
+    100%
+  </span>
+  <span class="absValue">
+    (1/ 1)
+  </span>
+</td>
+<td class="coverageStat">
+  <span class="percent">
+    100%
+  </span>
+  <span class="absValue">
+    (1/ 1)
+  </span>
+</td>
+  </tr>
+  <tr>
+    <td class="name">ModuleKt$injectionModule$1$3</td>
+<td class="coverageStat">
+  <span class="percent">
+    100%
+  </span>
+  <span class="absValue">
+    (1/ 1)
+  </span>
+</td>
+<td class="coverageStat">
+  <span class="percent">
+    100%
+  </span>
+  <span class="absValue">
+    (1/ 1)
+  </span>
+</td>
+  </tr>
+<tr>
+  <td class="name"><strong>total</strong></td>
+<td class="coverageStat">
+  <span class="percent">
+    100%
+  </span>
+  <span class="absValue">
+    (8/ 8)
+  </span>
+</td>
+<td class="coverageStat">
+  <span class="percent">
+    100%
+  </span>
+  <span class="absValue">
+    (12/ 12)
+  </span>
+</td>
+</tr>
+</table>
+
+<br/>
+<br/>
+
+
+<div class="sourceCode"><i>1</i>&nbsp;package com.demo.nytdemo.utils
+<i>2</i>&nbsp;
+<i>3</i>&nbsp;import com.demo.nytdemo.utils.adapter.RecyclerViewAdapter
+<i>4</i>&nbsp;import org.koin.dsl.module
+<i>5</i>&nbsp;import com.demo.nytdemo.model.Result
+<i>6</i>&nbsp;import com.demo.nytdemo.repository.MostPopularApiRepo
+<i>7</i>&nbsp;import com.demo.nytdemo.viewmodel.MainViewModel
+<i>8</i>&nbsp;import org.koin.androidx.viewmodel.dsl.viewModel
+<i>9</i>&nbsp;
+<b class="fc"><i>10</i>&nbsp;val injectionModule = module {</b>
+<i>11</i>&nbsp;
+<b class="fc"><i>12</i>&nbsp;    single { MostPopularApiRepo(get()) }</b>
+<b class="fc"><i>13</i>&nbsp;    viewModel { MainViewModel(get()) }</b>
+<b class="fc"><i>14</i>&nbsp;    factory { (elements: ArrayList&lt;Result&gt;,itemClickHandler:ItemClickHandler) -&gt; RecyclerViewAdapter(elements,itemClickHandler) }</b>
+<b class="fc"><i>15</i>&nbsp;}</b>
+<b class="fc"><i>16</i>&nbsp;val apiService= module {</b>
+<b class="fc"><i>17</i>&nbsp;    single { DemoService() }</b>
+<b class="fc"><i>18</i>&nbsp;}</b>
+</div>
+</div>
+
+<div class="footer">
+    
+    <div style="float:right;">generated on 2020-07-19 12:27</div>
+</div>
+</body>
+</html>

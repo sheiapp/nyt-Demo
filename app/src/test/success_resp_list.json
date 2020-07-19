@@ -1,0 +1,1241 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2020 The New York Times Company.  All Rights Reserved.",
+  "num_results": 20,
+  "results": [
+    {
+      "uri": "nyt://article/96de48da-5393-5a85-8e69-cc136f1bc520",
+      "url": "https://www.nytimes.com/2020/07/15/nyregion/fahim-saleh-lower-east-side-murder.html",
+      "id": 100000007239863,
+      "asset_id": 100000007239863,
+      "source": "New York Times",
+      "published_date": "2020-07-15",
+      "updated": "2020-07-17 10:22:52",
+      "section": "New York",
+      "subsection": "",
+      "nytdsection": "new york",
+      "adx_keywords": "Murders, Attempted Murders and Homicides;Saleh, Fahim (1986-2020);Lower East Side (Manhattan, NY);Nigeria;Bangladesh",
+      "column": null,
+      "byline": "By Michael Gold, William K. Rashbaum and Daniel E. Slotnik",
+      "type": "Article",
+      "title": "Dismemberment of Tech C.E.O. Fahim Saleh Looks Like ‘Professional Job’",
+      "abstract": "Mr. Saleh, 33, was followed into his luxury Manhattan condo by a man dressed all in black, an official said.",
+      "des_facet": [
+        "Murders, Attempted Murders and Homicides"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Saleh, Fahim (1986-2020)"
+      ],
+      "geo_facet": [
+        "Lower East Side (Manhattan, NY)",
+        "Nigeria",
+        "Bangladesh"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Fahim Saleh, 33, had founded several technology companies, including a motorcycle ride-hailing company in Nigeria.",
+          "copyright": "",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/07/15/nyregion/15nycmurder/15nycmurder-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/07/15/nyregion/15nycmurder/15nycmurder-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/07/15/nyregion/15nycmurder/15nycmurder-mediumThreeByTwo440-v2.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/26c5d979-e448-5ca1-b215-097ea053f31f",
+      "url": "https://www.nytimes.com/article/neowise-comet.html",
+      "id": 100000007238662,
+      "asset_id": 100000007238662,
+      "source": "New York Times",
+      "published_date": "2020-07-15",
+      "updated": "2020-07-16 09:36:28",
+      "section": "Science",
+      "subsection": "",
+      "nytdsection": "science",
+      "adx_keywords": "Comets;Space and Astronomy;Solar System;Content Type: Service;National Aeronautics and Space Administration",
+      "column": null,
+      "byline": "By Adam Mann",
+      "type": "Article",
+      "title": "Comet NEOWISE: How to See It in Night Skies",
+      "abstract": "Enjoy it while you can. The frozen ball of ice won’t return to the inner solar system for 6,800 years.",
+      "des_facet": [
+        "Comets",
+        "Space and Astronomy",
+        "Solar System",
+        "Content Type: Service"
+      ],
+      "org_facet": [
+        "National Aeronautics and Space Administration"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Comet NEOWISE over Mount Washington near Springfield, Ore., on Tuesday.",
+          "copyright": "Chris Pietsch/The Register-Guard, via Associated Press",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/07/15/science/15SCI-COMET1/15SCI-COMET1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/07/15/science/15SCI-COMET1/15SCI-COMET1-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/07/15/science/15SCI-COMET1/15SCI-COMET1-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/18e355ab-1cca-5360-8d50-b35009e6da34",
+      "url": "https://www.nytimes.com/2020/07/16/world/coronavirus-updates.html",
+      "id": 100000007240712,
+      "asset_id": 100000007240712,
+      "source": "New York Times",
+      "published_date": "2020-07-16",
+      "updated": "2020-07-17 07:50:43",
+      "section": "World",
+      "subsection": "",
+      "nytdsection": "world",
+      "adx_keywords": "Coronavirus (2019-nCoV)",
+      "column": null,
+      "byline": "",
+      "type": "Article",
+      "title": "U.S. Shatters Its Record of New Coronavirus Infections as India’s Caseload Hits a Million",
+      "abstract": "The United States reported more than 75,600 new cases on Thursday, a single-day record. India ranks third in the world in both total cases and new ones, and its rate of new infections is on track to overtake Brazil’s.",
+      "des_facet": [
+        "Coronavirus (2019-nCoV)"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/07/16/us/us-briefing-promo-image-print/us-briefing-promo-image-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/07/16/us/us-briefing-promo-image-print/us-briefing-promo-image-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/07/16/us/us-briefing-promo-image-print/us-briefing-promo-image-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/b827eda2-a6bb-5071-8f14-87a4ef312294",
+      "url": "https://www.nytimes.com/2020/07/14/us/politics/trump-cdc-coronavirus.html",
+      "id": 100000007238292,
+      "asset_id": 100000007238292,
+      "source": "New York Times",
+      "published_date": "2020-07-14",
+      "updated": "2020-07-15 16:21:37",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Coronavirus (2019-nCoV);Disease Rates;United States Politics and Government;Hospitals;Electronic Health Records;Conflicts of Interest;Trump, Donald J;Birx, Deborah L;Centers for Disease Control and Prevention;Health and Human Services Department",
+      "column": null,
+      "byline": "By Sheryl Gay Stolberg",
+      "type": "Article",
+      "title": "Trump Administration Strips C.D.C. of Control of Coronavirus Data",
+      "abstract": "Hospitals have been ordered to bypass the Centers for Disease Control and Prevention and send all patient information to a central database in Washington, raising questions about transparency.",
+      "des_facet": [
+        "Coronavirus (2019-nCoV)",
+        "Disease Rates",
+        "United States Politics and Government",
+        "Hospitals",
+        "Electronic Health Records",
+        "Conflicts of Interest"
+      ],
+      "org_facet": [
+        "Centers for Disease Control and Prevention",
+        "Health and Human Services Department"
+      ],
+      "per_facet": [
+        "Trump, Donald J",
+        "Birx, Deborah L"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A scientist at Houston Methodist Hospital last month preparing patient samples to be tested for the coronavirus.",
+          "copyright": "Erin Schaff/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/07/14/us/politics/14dc-virus-data/14dc-virus-data-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/07/14/us/politics/14dc-virus-data/merlin_174009087_d81a3118-690c-4a62-9d54-a7d9cee2a6da-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/07/14/us/politics/14dc-virus-data/merlin_174009087_d81a3118-690c-4a62-9d54-a7d9cee2a6da-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/3aafb4b6-9bf3-5d85-8bc3-2bbed7c2ccc0",
+      "url": "https://www.nytimes.com/2020/07/16/arts/television/late-night-ivanka-trump-goya-beans.html",
+      "id": 100000007240534,
+      "asset_id": 100000007240534,
+      "source": "New York Times",
+      "published_date": "2020-07-16",
+      "updated": "2020-07-16 09:27:07",
+      "section": "Arts",
+      "subsection": "Television",
+      "nytdsection": "arts",
+      "adx_keywords": "Colbert, Stephen;Fallon, Jimmy;Meyers, Seth;Noah, Trevor (1984- );Trump, Ivanka;Trump, Donald J",
+      "column": null,
+      "byline": "By Trish Bendix",
+      "type": "Article",
+      "title": "Late Night Thinks the Trumps Are Full of Beans",
+      "abstract": "Ivanka Trump posed with a can of Goya beans after the company’s president praised her father. “Sadly, after Ivanka tweeted in Spanish, Trump immediately had her deported,” said Jimmy Fallon.",
+      "des_facet": [],
+      "org_facet": [],
+      "per_facet": [
+        "Colbert, Stephen",
+        "Fallon, Jimmy",
+        "Meyers, Seth",
+        "Noah, Trevor (1984- )",
+        "Trump, Ivanka",
+        "Trump, Donald J"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "“I’m not sure if Ivanka is trying to promote Goya or she’s auditioning to be a model on ‘The Price is Right,’” Jimmy Fallon said of Ivanka Trump’s recently tweeted photo.",
+          "copyright": "NBC",
+          "approved_for_syndication": 0,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/07/16/arts/16latenight/16latenight-thumbStandard.png",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/07/16/arts/16latenight/16latenight-mediumThreeByTwo210.png",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/07/16/arts/16latenight/16latenight-mediumThreeByTwo440.png",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/ca6c03bf-e9b1-5234-b868-1a06a1ad4bd3",
+      "url": "https://www.nytimes.com/2020/07/15/us/politics/trump-campaign-brad-parscale.html",
+      "id": 100000007241194,
+      "asset_id": 100000007241194,
+      "source": "New York Times",
+      "published_date": "2020-07-15",
+      "updated": "2020-07-16 21:21:14",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Presidential Election of 2020;Appointments and Executive Changes;Trump, Donald J;Parscale, Brad (1976- );Stepien, Bill",
+      "column": null,
+      "byline": "By Maggie Haberman",
+      "type": "Article",
+      "title": "Trump Replaces Brad Parscale as Campaign Manager, Elevating Bill Stepien",
+      "abstract": "The replacement of Mr. Parscale with Mr. Stepien, who had served as deputy campaign manager, comes as the president has struggled in public and private polling.",
+      "des_facet": [
+        "Presidential Election of 2020",
+        "Appointments and Executive Changes"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Trump, Donald J",
+        "Parscale, Brad (1976- )",
+        "Stepien, Bill"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "As campaign manager for President Trump, Brad Parscale faced intense scrutiny and news coverage over the money his operation was making. ",
+          "copyright": "Evan Vucci/Associated Press",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/07/15/us/politics/15trump-parscale/15trump-parscale-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/07/15/us/politics/15trump-parscale/merlin_173815521_3ceac03b-3a07-49e1-abb5-bf910ca20a06-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/07/15/us/politics/15trump-parscale/merlin_173815521_3ceac03b-3a07-49e1-abb5-bf910ca20a06-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/5d4684b1-5894-5aec-ba21-069abfc7a1ab",
+      "url": "https://www.nytimes.com/2020/07/15/technology/twitter-hack-bill-gates-elon-musk.html",
+      "id": 100000007240948,
+      "asset_id": 100000007240948,
+      "source": "New York Times",
+      "published_date": "2020-07-15",
+      "updated": "2020-07-16 11:48:17",
+      "section": "Technology",
+      "subsection": "",
+      "nytdsection": "technology",
+      "adx_keywords": "Cyberattacks and Hackers;Bitcoin (Currency);Social Media;Biden, Joseph R Jr;Musk, Elon;West, Kanye;Gates, Bill;Obama, Barack;Trump, Donald J;Twitter",
+      "column": null,
+      "byline": "By Sheera Frenkel, Nathaniel Popper, Kate Conger and David E. Sanger",
+      "type": "Article",
+      "title": "A Brazen Online Attack Targets V.I.P. Twitter Users in a Bitcoin Scam",
+      "abstract": "In a major show of force, hackers breached some of the site’s most prominent accounts, a Who’s Who of Americans in politics, entertainment and tech.",
+      "des_facet": [
+        "Cyberattacks and Hackers",
+        "Bitcoin (Currency)",
+        "Social Media"
+      ],
+      "org_facet": [
+        "Twitter"
+      ],
+      "per_facet": [
+        "Biden, Joseph R Jr",
+        "Musk, Elon",
+        "West, Kanye",
+        "Gates, Bill",
+        "Obama, Barack",
+        "Trump, Donald J"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The official Twitter account of Elon Musk appeared to be hacked as the account sought Bitcoin transfers on Wednesday.",
+          "copyright": "Hannibal Hanschke/Reuters",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/07/15/business/15twitter-musk/merlin_173211669_d34241d2-2334-4677-a144-4646c7925b40-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/07/15/business/15twitter-musk/merlin_173211669_d34241d2-2334-4677-a144-4646c7925b40-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/07/15/business/15twitter-musk/merlin_173211669_d34241d2-2334-4677-a144-4646c7925b40-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/64b8e1eb-42e8-5ae9-aa2d-fa1d264546b3",
+      "url": "https://www.nytimes.com/2020/07/15/us/politics/china-travel-ban.html",
+      "id": 100000007239507,
+      "asset_id": 100000007239507,
+      "source": "New York Times",
+      "published_date": "2020-07-15",
+      "updated": "2020-07-16 11:30:19",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "United States International Relations;Executive Orders and Memorandums;Visas;Foreign Workers;Foreign Students (in US);Embargoes and Sanctions;United States Politics and Government;Coronavirus (2019-nCoV);Travel Warnings;Trump, Donald J;Xi Jinping;Communist Party of China;State Department;Homeland Security Department;Huawei Technologies Co Ltd;China;Hong Kong;Xinjiang (China)",
+      "column": null,
+      "byline": "By Paul Mozur and Edward Wong",
+      "type": "Article",
+      "title": "U.S. Weighs Sweeping Travel Ban on Chinese Communist Party Members",
+      "abstract": "The presidential order under consideration would be based on the same statute in the Immigration and Nationality Act used in a 2017 travel ban on several predominantly Muslim countries.",
+      "des_facet": [
+        "United States International Relations",
+        "Executive Orders and Memorandums",
+        "Visas",
+        "Foreign Workers",
+        "Foreign Students (in US)",
+        "Embargoes and Sanctions",
+        "United States Politics and Government",
+        "Coronavirus (2019-nCoV)",
+        "Travel Warnings"
+      ],
+      "org_facet": [
+        "Communist Party of China",
+        "State Department",
+        "Homeland Security Department",
+        "Huawei Technologies Co Ltd"
+      ],
+      "per_facet": [
+        "Trump, Donald J",
+        "Xi Jinping"
+      ],
+      "geo_facet": [
+        "China",
+        "Hong Kong",
+        "Xinjiang (China)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Morning rush hour in Beijing this month. A broad travel ban would be the most provocative U.S. action against China since the start of the trade war in 2018.",
+          "copyright": "Roman Pilipey/EPA, via Shutterstock",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/07/15/us/politics/15dc-chinaban-1/15dc-chinaban-1-thumbStandard-v3.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/07/15/us/politics/15dc-chinaban-1/15dc-chinaban-1-mediumThreeByTwo210-v3.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/07/15/us/politics/15dc-chinaban-1/15dc-chinaban-1-mediumThreeByTwo440-v3.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/3dd910d0-c0e6-5d9a-afff-87f49388901f",
+      "url": "https://www.nytimes.com/2020/07/14/health/coronavirus-hair-salon-masks.html",
+      "id": 100000007238312,
+      "asset_id": 100000007238312,
+      "source": "New York Times",
+      "published_date": "2020-07-14",
+      "updated": "2020-07-17 08:46:13",
+      "section": "Health",
+      "subsection": "",
+      "nytdsection": "health",
+      "adx_keywords": "Coronavirus Reopenings;Coronavirus (2019-nCoV);Masks;Coronavirus Risks and Safety Concerns;Beauty Salons;Missouri",
+      "column": null,
+      "byline": "By Katherine J. Wu",
+      "type": "Article",
+      "title": "2 Stylists Had Coronavirus, but Wore Masks. 139 Clients Didn’t Fall Sick.",
+      "abstract": "A new study looks at what might have been a dangerous outbreak — had it not been for vigilant mask wearing.",
+      "des_facet": [
+        "Coronavirus Reopenings",
+        "Coronavirus (2019-nCoV)",
+        "Masks",
+        "Coronavirus Risks and Safety Concerns",
+        "Beauty Salons"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "Missouri"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A hair salon in Arlington, Va., in May. The study, of a salon and its clients in Missouri, underscores the importance of face masks in curbing the spread of the virus.",
+          "copyright": "Shawn Thew/EPA, via Shutterstock",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/07/14/science/14VIRUS-HAIRSALON/14VIRUS-HAIRSALON-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/07/14/science/14VIRUS-HAIRSALON/14VIRUS-HAIRSALON-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/07/14/science/14VIRUS-HAIRSALON/14VIRUS-HAIRSALON-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/b917d181-a32e-5ea4-bf70-f5b27aff9790",
+      "url": "https://www.nytimes.com/2020/07/10/travel/state-travel-restrictions.html",
+      "id": 100000007233224,
+      "asset_id": 100000007233224,
+      "source": "New York Times",
+      "published_date": "2020-07-10",
+      "updated": "2020-07-16 18:35:38",
+      "section": "Travel",
+      "subsection": "",
+      "nytdsection": "travel",
+      "adx_keywords": "States (US);Quarantines;Coronavirus (2019-nCoV);Coronavirus Reopenings;Travel Warnings;Travel and Vacations;Alabama;Alaska;Boise (Idaho);California;Chicago (Ill);Connecticut;Delaware;Florida;Georgia;Hawaii;Idaho;Illinois;Indiana;Iowa;Kansas;Louisiana;Maine;Massachusetts;Miami-Dade County (Fla);Mississippi;Nevada;New England States (US);North Carolina;Wisconsin;Vermont;Utah;Texas;Tennessee;South Carolina;Rhode Island;Pennsylvania",
+      "column": null,
+      "byline": "By Karen Schwartz",
+      "type": "Article",
+      "title": "Thinking of Traveling in the U.S.? These States Have Travel Restrictions",
+      "abstract": "A third of states have strict measures in place for visitors, from mandatory testing to quarantine requirements.",
+      "des_facet": [
+        "States (US)",
+        "Quarantines",
+        "Coronavirus (2019-nCoV)",
+        "Coronavirus Reopenings",
+        "Travel Warnings",
+        "Travel and Vacations"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "Alabama",
+        "Alaska",
+        "Boise (Idaho)",
+        "California",
+        "Chicago (Ill)",
+        "Connecticut",
+        "Delaware",
+        "Florida",
+        "Georgia",
+        "Hawaii",
+        "Idaho",
+        "Illinois",
+        "Indiana",
+        "Iowa",
+        "Kansas",
+        "Louisiana",
+        "Maine",
+        "Massachusetts",
+        "Miami-Dade County (Fla)",
+        "Mississippi",
+        "Nevada",
+        "New England States (US)",
+        "North Carolina",
+        "Wisconsin",
+        "Vermont",
+        "Utah",
+        "Texas",
+        "Tennessee",
+        "South Carolina",
+        "Rhode Island",
+        "Pennsylvania"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "In New Jersey, a road sign advises out-of-state visitors to call and learn if they must self-quarantine.",
+          "copyright": "Ted Shaffrey/Associated Press",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/07/10/travel/10quarentine/10quarentine-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/07/10/travel/10quarentine/merlin_174085854_8ae7efae-415f-409e-94f7-71b554aa1fb4-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/07/10/travel/10quarentine/merlin_174085854_8ae7efae-415f-409e-94f7-71b554aa1fb4-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/5bdfd6e3-1721-5905-a73a-943a5d050e63",
+      "url": "https://www.nytimes.com/2020/07/15/world/coronavirus-updates.html",
+      "id": 100000007238931,
+      "asset_id": 100000007238931,
+      "source": "New York Times",
+      "published_date": "2020-07-15",
+      "updated": "2020-07-17 07:50:30",
+      "section": "World",
+      "subsection": "",
+      "nytdsection": "world",
+      "adx_keywords": "Coronavirus (2019-nCoV)",
+      "column": null,
+      "byline": "",
+      "type": "Article",
+      "title": "As U.S. Coronavirus Cases Hit 3.5 Million, Officials Scramble to Add Restrictions",
+      "abstract": "More U.S. school districts have joined the move toward online learning for their reopening plans. China’s economy, the world’s second-largest, expanded in the second quarter.",
+      "des_facet": [
+        "Coronavirus (2019-nCoV)"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/07/16/us/us-briefing-promo-image-print/us-briefing-promo-image-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/07/16/us/us-briefing-promo-image-print/us-briefing-promo-image-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/07/16/us/us-briefing-promo-image-print/us-briefing-promo-image-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/dde03e3b-c799-568a-97bd-20ebe9e983a4",
+      "url": "https://www.nytimes.com/2020/07/16/magazine/colin-powell-iraq-war.html",
+      "id": 100000007234164,
+      "asset_id": 100000007234164,
+      "source": "New York Times",
+      "published_date": "2020-07-16",
+      "updated": "2020-07-16 23:30:51",
+      "section": "Magazine",
+      "subsection": "",
+      "nytdsection": "magazine",
+      "adx_keywords": "Iraq War (2003-11);United States Politics and Government;United States Defense and Military Forces;United States International Relations;Bush, George W;Cheney, Dick;Franks, Tommy R;Powell, Colin L;Tenet, George J;Rumsfeld, Donald H;Rice, Condoleezza;McLaughlin, John E;Libby, I Lewis Jr;Armitage, Richard L;Central Intelligence Agency;General Assembly (UN);Iraq",
+      "column": null,
+      "byline": "By Robert Draper",
+      "type": "Article",
+      "title": "Colin Powell Still Wants Answers",
+      "abstract": "In 2003, he made the case for invading Iraq to halt its weapons programs. The analysts who provided the intelligence now say it was doubted inside the C.I.A. at the time.",
+      "des_facet": [
+        "Iraq War (2003-11)",
+        "United States Politics and Government",
+        "United States Defense and Military Forces",
+        "United States International Relations"
+      ],
+      "org_facet": [
+        "Central Intelligence Agency",
+        "General Assembly (UN)"
+      ],
+      "per_facet": [
+        "Bush, George W",
+        "Cheney, Dick",
+        "Franks, Tommy R",
+        "Powell, Colin L",
+        "Tenet, George J",
+        "Rumsfeld, Donald H",
+        "Rice, Condoleezza",
+        "McLaughlin, John E",
+        "Libby, I Lewis Jr",
+        "Armitage, Richard L"
+      ],
+      "geo_facet": [
+        "Iraq"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Colin Powell in Virginia this month. ‘‘I knew I didn’t have any choice,’’ he said. ‘‘He’s the president.’’",
+          "copyright": "Gabriella Demczuk for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/07/19/magazine/19mag-iraq-3/19mag-iraq-3-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/07/19/magazine/19mag-iraq-3/19mag-iraq-3-mediumThreeByTwo210-v3.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/07/19/magazine/19mag-iraq-3/19mag-iraq-3-mediumThreeByTwo440-v3.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/a0906e41-61eb-5a18-ab3c-a54368b374cf",
+      "url": "https://www.nytimes.com/2018/05/02/sports/redskins-cheerleaders-nfl.html",
+      "id": 100000005876545,
+      "asset_id": 100000005876545,
+      "source": "New York Times",
+      "published_date": "2018-05-02",
+      "updated": "2020-07-16 18:14:45",
+      "section": "Sports",
+      "subsection": "",
+      "nytdsection": "sports",
+      "adx_keywords": "Football;Cheerleaders;Sexual Harassment;#MeToo Movement;Workplace Hazards and Violations;Snyder, Daniel M;Washington Redskins;National Football League",
+      "column": null,
+      "byline": "By Juliet Macur",
+      "type": "Article",
+      "title": "Washington Redskins Cheerleaders Describe Topless Photo Shoot and Uneasy Night Out",
+      "abstract": "Men were granted up-close access to photo shoots on the beach when the women were nude, the cheerleaders said.",
+      "des_facet": [
+        "Football",
+        "Cheerleaders",
+        "Sexual Harassment",
+        "#MeToo Movement",
+        "Workplace Hazards and Violations"
+      ],
+      "org_facet": [
+        "Washington Redskins",
+        "National Football League"
+      ],
+      "per_facet": [
+        "Snyder, Daniel M"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Cheerleaders for the Washington Redskins waiting to run onto the field before a 2013 game.",
+          "copyright": "Patrick Smith/Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2018/05/04/sports/03cheer-web1/03cheer-web1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/05/04/sports/03cheer-web1/03cheer-web1-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/05/04/sports/03cheer-web1/03cheer-web1-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/197372bd-a6d1-56d8-9beb-c57911a6a292",
+      "url": "https://www.nytimes.com/2020/07/16/upshot/coronavirus-school-reopening-private-public-gap.html",
+      "id": 100000007239419,
+      "asset_id": 100000007239419,
+      "source": "New York Times",
+      "published_date": "2020-07-16",
+      "updated": "2020-07-17 07:57:46",
+      "section": "The Upshot",
+      "subsection": "",
+      "nytdsection": "the upshot",
+      "adx_keywords": "Education (K-12);Coronavirus Reopenings;Coronavirus (2019-nCoV);Private and Sectarian Schools;Teachers and School Employees;E-Learning",
+      "column": null,
+      "byline": "By Claire Cain Miller",
+      "type": "Article",
+      "title": "In the Same Towns, Private Schools Are Reopening While Public Schools Are Not",
+      "abstract": "Private schools have always had more flexibility, and usually more money, but never has that disparity made a bigger difference than now.",
+      "des_facet": [
+        "Education (K-12)",
+        "Coronavirus Reopenings",
+        "Coronavirus (2019-nCoV)",
+        "Private and Sectarian Schools",
+        "Teachers and School Employees",
+        "E-Learning"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Punahou School in Honolulu will be open full time in the fall. Its donors and alumni have given money to help make that happen.",
+          "copyright": "Cory Lum for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/07/15/upshot/00up-virus-school2/merlin_17395133_1149fb0e-99ea-43f7-a4a6-959b77ea1e69-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/07/15/upshot/00up-virus-school2/merlin_17395133_1149fb0e-99ea-43f7-a4a6-959b77ea1e69-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/07/15/upshot/00up-virus-school2/merlin_17395133_1149fb0e-99ea-43f7-a4a6-959b77ea1e69-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/8c90f5e5-e2c6-54bb-b2a0-03639a470113",
+      "url": "https://www.nytimes.com/2020/07/13/parenting/kids-tickling.html",
+      "id": 100000007210204,
+      "asset_id": 100000007210204,
+      "source": "New York Times",
+      "published_date": "2020-07-13",
+      "updated": "2020-07-15 10:37:03",
+      "section": "Parenting",
+      "subsection": "",
+      "nytdsection": "parenting",
+      "adx_keywords": "Tickling;Laughter;Parenting;Children and Childhood",
+      "column": null,
+      "byline": "By Jenny Marder",
+      "type": "Article",
+      "title": "The Case Against Tickling",
+      "abstract": "Laughter doesn’t always signal enjoyment, and “stop” should mean “stop.”",
+      "des_facet": [
+        "Tickling",
+        "Laughter",
+        "Parenting",
+        "Children and Childhood"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/a7b2ef08-9dac-5941-81c4-cf02003b52b9",
+      "url": "https://www.nytimes.com/2020/07/15/opinion/coronavirus-covid-brazil-bolsonaro.html",
+      "id": 100000007227772,
+      "asset_id": 100000007227772,
+      "source": "New York Times",
+      "published_date": "2020-07-15",
+      "updated": "2020-07-16 10:45:08",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "Politics and Government;Coronavirus (2019-nCoV);Deaths (Fatalities);United States Politics and Government;Presidential Election of 2020;Bolsonaro, Jair (1955- );Trump, Donald J;Neto, Felipe (1988- );United States;Brazil",
+      "column": null,
+      "byline": "By Felipe Neto",
+      "type": "Article",
+      "title": "Trump Isn’t the Worst Pandemic President",
+      "abstract": "Just ask Brazilians.",
+      "des_facet": [
+        "Politics and Government",
+        "Coronavirus (2019-nCoV)",
+        "Deaths (Fatalities)",
+        "United States Politics and Government",
+        "Presidential Election of 2020"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Bolsonaro, Jair (1955- )",
+        "Trump, Donald J",
+        "Neto, Felipe (1988- )"
+      ],
+      "geo_facet": [
+        "United States",
+        "Brazil"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "",
+          "approved_for_syndication": 0,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/07/16/autossell/15op-brazil-thumb-print/15op-brazil-thumb-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/07/16/autossell/15op-brazil-thumb-print/15op-brazil-thumb-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/07/16/autossell/15op-brazil-thumb-print/15op-brazil-thumb-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://interactive/0347c53e-71e2-5711-9b9f-35a48b54a0af",
+      "url": "https://www.nytimes.com/interactive/2020/07/16/realestate/16hunt-hagstrom.html",
+      "id": 100000007240391,
+      "asset_id": 100000007240391,
+      "source": "New York Times",
+      "published_date": "2020-07-16",
+      "updated": "2020-07-16 15:27:45",
+      "section": "Real Estate",
+      "subsection": "",
+      "nytdsection": "real estate",
+      "adx_keywords": "Real Estate and Housing (Residential);Quarantine (Life and Culture);Flatiron District (Manhattan, NY);Gramercy Park (Manhattan, NY);East Village (Manhattan, NY);Stuyvesant Square (Manhattan, NY)",
+      "column": null,
+      "byline": "By Joyce Cohen",
+      "type": "Interactive",
+      "title": "He Wanted a Manhattan Bachelor Pad for Under $600,000. Which of These Would You Choose?",
+      "abstract": "After failing to land a two-bedroom co-op he could share with a roommate, a young buyer scaled back his search. Here’s where he wound up.",
+      "des_facet": [
+        "Real Estate and Housing (Residential)",
+        "Quarantine (Life and Culture)"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "Flatiron District (Manhattan, NY)",
+        "Gramercy Park (Manhattan, NY)",
+        "East Village (Manhattan, NY)",
+        "Stuyvesant Square (Manhattan, NY)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "",
+          "caption": "Eric Hagstrom in his new Manhattan apartment. He set out looking for a two-bedroom co-op that he could share with a roommate, but after one “ideal place” near Gramercy Park fell through, he reset his search to include studios and one-bedrooms for no more than $600,000.",
+          "copyright": "Katherine Marks for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/07/19/realestate/16Hunt-hagstrom3/16Hunt-hagstrom3-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/07/19/realestate/16Hunt-hagstrom3/16Hunt-hagstrom3-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/07/19/realestate/16Hunt-hagstrom3/16Hunt-hagstrom3-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/1963ed93-367c-5987-87e4-3a55ed5b09ca",
+      "url": "https://www.nytimes.com/2020/07/15/us/steven-pinker-harvard.html",
+      "id": 100000007234213,
+      "asset_id": 100000007234213,
+      "source": "New York Times",
+      "published_date": "2020-07-15",
+      "updated": "2020-07-16 11:39:07",
+      "section": "U.S.",
+      "subsection": "",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Freedom of Speech and Expression;Colleges and Universities;Discrimination;Race and Ethnicity;Black People;Pinker, Steven;Harvard University;Linguistic Society of America",
+      "column": null,
+      "byline": "By Michael Powell",
+      "type": "Article",
+      "title": "How a Famous Harvard Professor Became a Target Over His Tweets",
+      "abstract": "The outcry over free speech and race takes aim at Steven Pinker, the best-selling author and well-known scholar.",
+      "des_facet": [
+        "Freedom of Speech and Expression",
+        "Colleges and Universities",
+        "Discrimination",
+        "Race and Ethnicity",
+        "Black People"
+      ],
+      "org_facet": [
+        "Harvard University",
+        "Linguistic Society of America"
+      ],
+      "per_facet": [
+        "Pinker, Steven"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Professor Steven Pinker, in his office in Cambridge, Mass., in 2018. He has been accused of racial insensitivity by people he describes as “speech police.”",
+          "copyright": "Kayana Szymczak for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/07/13/us/13pinker/13pinker-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/07/13/us/13pinker/13pinker-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/07/13/us/13pinker/13pinker-mediumThreeByTwo440-v2.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/fea2c4e3-80cd-5aab-b5bf-2d1f77fd9b66",
+      "url": "https://www.nytimes.com/2020/07/16/upshot/polls-biden-trump-how-accurate.html",
+      "id": 100000007240461,
+      "asset_id": 100000007240461,
+      "source": "New York Times",
+      "published_date": "2020-07-16",
+      "updated": "2020-07-16 21:09:18",
+      "section": "The Upshot",
+      "subsection": "",
+      "nytdsection": "the upshot",
+      "adx_keywords": "Polls and Public Opinion;Presidential Election of 2020;Presidential Election of 2016;Voting and Voters;Biden, Joseph R Jr;Trump, Donald J",
+      "column": null,
+      "byline": "By Nate Cohn",
+      "type": "Article",
+      "title": "Even if the Polls Are Really Off, Trump Is Still in Trouble",
+      "abstract": "Joe Biden’s lead is sufficient to cover a sizable error. And several of the biggest problems with polling in the last election have either been addressed or become less relevant.",
+      "des_facet": [
+        "Polls and Public Opinion",
+        "Presidential Election of 2020",
+        "Presidential Election of 2016",
+        "Voting and Voters"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Biden, Joseph R Jr",
+        "Trump, Donald J"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Joe Biden speaking in Wilmington, Del., this week.",
+          "copyright": "Kriston Jae Bethel for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/07/17/upshot/16up-polls-print/16up-polls-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/07/17/upshot/16up-polls-print/16up-polls-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/07/17/upshot/16up-polls-print/16up-polls-mediumThreeByTwo440-v2.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/b48f83b6-480f-5a25-94dd-fdf023ca480e",
+      "url": "https://www.nytimes.com/2020/07/14/health/cornavirus-vaccine-moderna.html",
+      "id": 100000007238762,
+      "asset_id": 100000007238762,
+      "source": "New York Times",
+      "published_date": "2020-07-14",
+      "updated": "2020-07-16 10:14:15",
+      "section": "Health",
+      "subsection": "",
+      "nytdsection": "health",
+      "adx_keywords": "your-feed-science;Vaccination and Immunization;Coronavirus (2019-nCoV);Clinical Trials;Antibodies;Moderna Inc;New England Journal of Medicine;National Institute of Allergy and Infectious Diseases",
+      "column": null,
+      "byline": "By Denise Grady",
+      "type": "Article",
+      "title": "First Coronavirus Vaccine Tested in Humans Shows Early Promise",
+      "abstract": "The vaccine, developed by government scientists and Moderna, a biotech company, appeared safe and provoked an immune response in 45 people in a study.",
+      "des_facet": [
+        "your-feed-science",
+        "Vaccination and Immunization",
+        "Coronavirus (2019-nCoV)",
+        "Clinical Trials",
+        "Antibodies"
+      ],
+      "org_facet": [
+        "Moderna Inc",
+        "New England Journal of Medicine",
+        "National Institute of Allergy and Infectious Diseases"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The 45 people who were vaccinated in the early stage test of Moderna’s vaccine produced neutralizing antibodies to the coronavirus, an encouraging sign.",
+          "copyright": "Ted S. Warren/Associated Press",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/07/15/science/15VIRUS-MODERNA/15VIRUS-MODERNA-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/07/15/science/15VIRUS-MODERNA/15VIRUS-MODERNA-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/07/15/science/15VIRUS-MODERNA/15VIRUS-MODERNA-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    }
+  ]
+}
